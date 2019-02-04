@@ -17,7 +17,7 @@ A single HTML page (single html file with js+css embedded inside) which has the 
 * the progress bar runs just below the 'option placeholders'while all elements are loading 
 * values of active options is configurable by page url 'hash'.
   E.g. adding "#red|green|blue" to page url will cause the page to
-  have 3 options, "red", "green", "blue" (plus 'All'). After adding hash values to URL press enter and reload the page.
+  have 3 options, "red", "green", "blue" (plus 'All'). <dfn>After adding hash values to URL press enter and reload the page.</dfn>
 * the default options setup is as described above and is used whenever no
    'hash' value is added (it is equivalent of having '#Opt1|Opt2|Opt3' hash)
    
