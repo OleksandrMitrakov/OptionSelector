@@ -21,5 +21,5 @@ A single HTML page (single html file with js+css embedded inside) which has the 
 ** the default options setup is as described above and is used whenever no
    'hash' value is added (it is equivalent of having '#Opt1|Opt2|Opt3' hash)
    
-   Check it <a href="optionselector.surge.sh" target="_blank">here</a>
+   Check it <a href="http://optionselector.surge.sh/" target="_blank">here</a>
 
